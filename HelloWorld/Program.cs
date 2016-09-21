@@ -13,8 +13,15 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!!!");
             Console.WriteLine("Hello Worl2d!!!");
-
+         
             Console.ReadKey();
+        }
+
+        /// <summary>
+        /// Этот метод считаем математику.
+        /// </summary>
+       static void Mathem()
+        {
         }
     }
 }
